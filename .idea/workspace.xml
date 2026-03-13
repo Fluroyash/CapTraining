@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2ef0504-a683-400d-a740-14e7b2c2b284" name="Changes" comment="none">
+      <change afterPath="$PROJECT_DIR$/Class/Day2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/Task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/Task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/Task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/Task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/Task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/Task9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,22 +29,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Fluroyash"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Fluroyash&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Fluroyash/CapTraining.git",
-    "accountId": "afcae6b5-546e-4586-b96e-03cfc7284011"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fluroyash/CapTraining.git&quot;,
+    &quot;accountId&quot;: &quot;afcae6b5-546e-4586-b96e-03cfc7284011&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="3AprzT2mBBo03TpYG1nfuJUlby4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +57,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.12_Feb.executor": "Run",
     "Python.Daily_Practice.executor": "Run",
+    "Python.Day2.executor": "Run",
+    "Python.Task4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -79,6 +91,8 @@
       <workItem from="1773300615844" duration="1019000" />
       <workItem from="1773323697679" duration="4000" />
       <workItem from="1773342431870" duration="1186000" />
+      <workItem from="1773380779870" duration="4533000" />
+      <workItem from="1773392726321" duration="3820000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <option name="closed" value="true" />
@@ -88,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773343079650</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="none">
+      <option name="closed" value="true" />
+      <created>1773380800717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773380800717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +134,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$Daily_Practice.coverage" NAME="Daily_Practice Coverage Results" MODIFIED="1773342698454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
     <SUITE FILE_PATH="coverage/PythonProject$12_Feb.coverage" NAME="12_Feb Coverage Results" MODIFIED="1773301369316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
+    <SUITE FILE_PATH="coverage/PythonProject$Day2.coverage" NAME="Day2 Coverage Results" MODIFIED="1773396760652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/PythonProject$Task4.coverage" NAME="Task4 Coverage Results" MODIFIED="1773396859674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
   </component>
 </project>
