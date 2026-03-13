@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2ef0504-a683-400d-a740-14e7b2c2b284" name="Changes" comment="none">
-      <change afterPath="$PROJECT_DIR$/Class/Day2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/Task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/Task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/Task8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/Task9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c2ef0504-a683-400d-a740-14e7b2c2b284" name="Changes" comment="none" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,27 +43,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.12_Feb.executor": "Run",
-    "Python.Daily_Practice.executor": "Run",
-    "Python.Day2.executor": "Run",
-    "Python.Task4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.12_Feb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Daily_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,6 +84,7 @@
       <workItem from="1773342431870" duration="1186000" />
       <workItem from="1773380779870" duration="4533000" />
       <workItem from="1773392726321" duration="3820000" />
+      <workItem from="1773416166560" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <option name="closed" value="true" />
