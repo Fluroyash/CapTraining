@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2ef0504-a683-400d-a740-14e7b2c2b284" name="Changes" comment="none" />
+    <list default="true" id="c2ef0504-a683-400d-a740-14e7b2c2b284" name="Changes" comment="none">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Fluroyash"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Fluroyash/CapTraining.git",
@@ -70,7 +78,7 @@
       <updated>1773300614782</updated>
       <workItem from="1773300615844" duration="1019000" />
       <workItem from="1773323697679" duration="4000" />
-      <workItem from="1773342431870" duration="989000" />
+      <workItem from="1773342431870" duration="1186000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <option name="closed" value="true" />
