@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2ef0504-a683-400d-a740-14e7b2c2b284" name="Changes" comment="none" />
+    <list default="true" id="c2ef0504-a683-400d-a740-14e7b2c2b284" name="Changes" comment="none">
+      <change afterPath="$PROJECT_DIR$/DailyTask/12March/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyTask/12March/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyTask/12March/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily_Practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practise/12_Feb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practise/Daily_Practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practise/Task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practise/Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/DailyTask/13March/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practise/Task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/DailyTask/13March/Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practise/Task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/DailyTask/13March/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practise/Task8.py" beforeDir="false" afterPath="$PROJECT_DIR$/DailyTask/13March/Task4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practise/Task9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Day3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,27 +57,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.12_Feb.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Daily_Practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.12_Feb.executor": "Run",
+    "Python.Daily_Practice.executor": "Run",
+    "Python.Day2.executor": "Run",
+    "Python.Day3.executor": "Run",
+    "Python.Task4.executor": "Run",
+    "Python.Task5.executor": "Run",
+    "Python.Task6.executor": "Run",
+    "Python.Task7.executor": "Run",
+    "Python.Task8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +103,9 @@
       <workItem from="1773342431870" duration="1186000" />
       <workItem from="1773380779870" duration="4533000" />
       <workItem from="1773392726321" duration="3820000" />
-      <workItem from="1773416166560" duration="301000" />
+      <workItem from="1773416166560" duration="1840000" />
+      <workItem from="1773418127039" duration="231000" />
+      <workItem from="1773465589937" duration="1098000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <option name="closed" value="true" />
@@ -124,9 +145,14 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$Task8.coverage" NAME="Task8 Coverage Results" MODIFIED="1773417841995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
     <SUITE FILE_PATH="coverage/PythonProject$Daily_Practice.coverage" NAME="Daily_Practice Coverage Results" MODIFIED="1773342698454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
+    <SUITE FILE_PATH="coverage/PythonProject$Task7.coverage" NAME="Task7 Coverage Results" MODIFIED="1773417561061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
+    <SUITE FILE_PATH="coverage/PythonProject$Task5.coverage" NAME="Task5 Coverage Results" MODIFIED="1773417022495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
     <SUITE FILE_PATH="coverage/PythonProject$12_Feb.coverage" NAME="12_Feb Coverage Results" MODIFIED="1773301369316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
+    <SUITE FILE_PATH="coverage/PythonProject$Day3.coverage" NAME="Day3 Coverage Results" MODIFIED="1773465896895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/PythonProject$Day2.coverage" NAME="Day2 Coverage Results" MODIFIED="1773396760652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/PythonProject$Task4.coverage" NAME="Task4 Coverage Results" MODIFIED="1773396859674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
+    <SUITE FILE_PATH="coverage/PythonProject$Task6.coverage" NAME="Task6 Coverage Results" MODIFIED="1773417372950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
   </component>
 </project>
