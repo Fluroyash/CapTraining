@@ -16,9 +16,14 @@ driver.find_element(By.CSS_SELECTOR, "#userName").send_keys("Yash")
 driver.quit()
 
 """
-
+"""
 driver.get("https://demoqa.com/text-box")
 driver.maximize_window()
 time.sleep(3)
 driver.find_element(By.XPATH, '//input[@placeholder="name@example.com"]').send_keys("rajyashrathore14@gmail.com")
 time.sleep(3)
+"""
+
+driver.get('https://amazon.com/')
+time.sleep(5)
+driver.find_element(By.XPATH, '(//span[@class="navFooterDescText"])[9]').click()
