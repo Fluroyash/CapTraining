@@ -1,0 +1,20 @@
+from time import sleep
+from selenium.webdriver import Edge, EdgeOptions
+from selenium.webdriver.common.by import By
+a = EdgeOptions()
+a.add_experimental_option("detach", True)
+driver = Edge(options=a)
+driver.get("https://www.zomato.com/jaipur/delivery")
+driver.maximize_window()
+sleep(5)
+driver.find_element(By.XPATH,"//a[text()='Log in']").click()
+sleep(3)
+frame1=driver.find_element(By.XPATH,"//iframe[contains(@id,'auth')]")
+driver.switch_to.frame(frame1)
+sleep(3)
+frame2=driver.find_element(By.XPATH,"(//iframe[@title='Sign in with Google Button'])[1]")
+driver.switch_to.frame(frame2)
+sleep(3)
+driver.find_element(By.XPATH,"//span[text()='Sign in with Google']").click()
+sleep(5)
+driver.quit()

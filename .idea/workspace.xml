@@ -5,24 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2ef0504-a683-400d-a740-14e7b2c2b284" name="Changes" comment="none">
-      <change afterPath="$PROJECT_DIR$/Class/Day1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Day4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Day5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Day6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Day7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/16March/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/16March/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/17March/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/17March/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/19March/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/19March/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/19March/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/19March/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/23March/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/23March/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/23March/Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/Day8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/Day9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyTask/24March/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyTask/24March/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyTask/24March/Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyTask/24March/Task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyTask/24March/Task5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/Day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Day1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +63,7 @@
     &quot;Python.Day5.executor&quot;: &quot;Run&quot;,
     &quot;Python.Day6.executor&quot;: &quot;Run&quot;,
     &quot;Python.Day7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day8.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
@@ -136,7 +127,9 @@
       <workItem from="1774248703493" duration="324000" />
       <workItem from="1774249691109" duration="2523000" />
       <workItem from="1774256023093" duration="7079000" />
-      <workItem from="1774328138664" duration="313000" />
+      <workItem from="1774328138664" duration="6142000" />
+      <workItem from="1774342379042" duration="6171000" />
+      <workItem from="1774416090994" duration="362000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <option name="closed" value="true" />
@@ -189,8 +182,9 @@
     <SUITE FILE_PATH="coverage/PythonProject$Day4.coverage" NAME="Day4 Coverage Results" MODIFIED="1773655748433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/PythonProject$Daily_Practice.coverage" NAME="Daily_Practice Coverage Results" MODIFIED="1773342698454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
     <SUITE FILE_PATH="coverage/PythonProject$Task5.coverage" NAME="Task5 Coverage Results" MODIFIED="1773417022495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
-    <SUITE FILE_PATH="coverage/PythonProject$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1773897817775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DailyTask/17March" />
+    <SUITE FILE_PATH="coverage/PythonProject$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1774336209705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DailyTask/24March" />
     <SUITE FILE_PATH="coverage/PythonProject$Day3.coverage" NAME="Day3 Coverage Results" MODIFIED="1773472753213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/PythonProject$Day8.coverage" NAME="Day8 Coverage Results" MODIFIED="1774347129882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/PythonProject$Task4.coverage" NAME="Task4 Coverage Results" MODIFIED="1773396859674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
   </component>
 </project>
