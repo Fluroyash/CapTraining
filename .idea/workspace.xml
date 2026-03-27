@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2ef0504-a683-400d-a740-14e7b2c2b284" name="Changes" comment="none">
-      <change afterPath="$PROJECT_DIR$/Class/Day8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Day9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/24March/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/24March/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/24March/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/24March/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTask/24March/Task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest/Day1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Day9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Day9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +59,7 @@
     &quot;Python.Day6.executor&quot;: &quot;Run&quot;,
     &quot;Python.Day7.executor&quot;: &quot;Run&quot;,
     &quot;Python.Day8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day9.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
@@ -129,7 +125,9 @@
       <workItem from="1774256023093" duration="7079000" />
       <workItem from="1774328138664" duration="6142000" />
       <workItem from="1774342379042" duration="6171000" />
-      <workItem from="1774416090994" duration="362000" />
+      <workItem from="1774416090994" duration="963000" />
+      <workItem from="1774419950029" duration="3926000" />
+      <workItem from="1774588432015" duration="758000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <option name="closed" value="true" />
@@ -175,6 +173,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$Day5.coverage" NAME="Day5 Coverage Results" MODIFIED="1773731993758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/PythonProject$Day6.coverage" NAME="Day6 Coverage Results" MODIFIED="1773915434551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/PythonProject$Day2.coverage" NAME="Day2 Coverage Results" MODIFIED="1773396760652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/PythonProject$Day9.coverage" NAME="Day9 Coverage Results" MODIFIED="1774423555166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/PythonProject$Task6.coverage" NAME="Task6 Coverage Results" MODIFIED="1773417372950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
     <SUITE FILE_PATH="coverage/PythonProject$Task8.coverage" NAME="Task8 Coverage Results" MODIFIED="1773417841995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practise" />
     <SUITE FILE_PATH="coverage/PythonProject$Day7.coverage" NAME="Day7 Coverage Results" MODIFIED="1774261355721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
