@@ -1,0 +1,14 @@
+
+
+File name should always start with test
+Function name aur method name should also start with test_
+class name should start with Test
+when we follow these rules pytest will recognize these files , functions and classes following the rules so
+without giving function call we can execute the test function and without creating an object we can execute
+a test function ,and without creating an object we can test the test class.
+
+-v stands for verbosity it gives the detail description of the code
+-s stands for scripting and print all the print statement
+Pytest cannot recognize the function that aren't inside these rules.
+In case of test classes we need not create objects and call the functions. If we do so the execution will happen
+twice
